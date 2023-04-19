@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,AnhNN </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A software engineer passionate development from Vietnam </h3>
-<p align="center"> <img src="[https://komarev.com/ghpvc/?username=anhkt0964](https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/304884987_754018558991393_1647613859151646055_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=f1u8h4dspqEAX-fG6fE&_nc_ht=scontent.fdad3-4.fna&oh=00_AfCuGBVnjwopJ16pyKGnDQ6tyF4LqgI8iNKiND8_gtqw3w&oe=64454C74)" alt="AnhNN" /> <img src="https://badges.pufler.dev/repos/anhkt0964" alt="AnhNN" /> </p>
+<p align="center"> <img src="https://scontent.fdad3-4.fna.fbcdn.net/v/t39.30808-6/304884987_754018558991393_1647613859151646055_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=f1u8h4dspqEAX-fG6fE&_nc_ht=scontent.fdad3-4.fna&oh=00_AfCuGBVnjwopJ16pyKGnDQ6tyF4LqgI8iNKiND8_gtqw3w&oe=64454C74)" alt="AnhNN" /> <img src="https://badges.pufler.dev/repos/anhkt0964" alt="AnhNN" /> </p>
 
 - ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
 - 💻 I'm a self taught Full-Stack Mobile Developer and a DevOps Engineer.
