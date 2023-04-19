@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,AnhNN </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A software engineer passionate development from Vietnam </h3>
-<p align="center"> <img src="https://github.com/AnhNN11/AnhNN11/blob/main/imgs/AnhNN11.jpg" alt="AnhNN" width="300" height="300" /> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vietnamfineart.com.vn%2Fanh-anime%2Ftop-106-anh-anime-choi-game-dep-het-say%2F&psig=AOvVaw2x9YTPehyuRLKRJgnRmUPW&ust=1681963351688000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLi72_CHtf4CFQAAAAAdAAAAABAJ" alt="AnhNN" /> </p>
+<p align="center"> <img src="https://github.com/AnhNN11/AnhNN11/blob/main/imgs/AnhNN11.jpg" alt="AnhNN" width="300" height="300" /> <img src="![image](https://user-images.githubusercontent.com/110618502/232964761-2eb10353-2c0d-4d0d-8ef4-17720344e68b.png)" alt="AnhNN" /> </p>
 
 - ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
 - 💻 I'm a self taught Full-Stack Mobile Developer and a DevOps Engineer.
