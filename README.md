@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,AnhNN </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A software engineer passionate development from Vietnam </h3>
-<p align="center"> <img src="AnhNN11\imgs\AnhNN11.jpg" alt="AnhNN" /> <img src="AnhNN11\imgs\NA11.jpg" alt="AnhNN" /> </p>
+<p align="center"> <img src="https://github.com/AnhNN11/AnhNN11/blob/main/imgs/AnhNN11.jpg" alt="AnhNN" /> <img src="AnhNN11\imgs\NA11.jpg" alt="AnhNN" /> </p>
 
 - ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
 - 💻 I'm a self taught Full-Stack Mobile Developer and a DevOps Engineer.
